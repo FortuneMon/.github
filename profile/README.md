@@ -39,6 +39,7 @@ FortuneMon은 누구나 쉽게 감정 기반 루틴 서비스를 개발하거나
 - 💡 [사용법 가이드](../docs/USAGE.md)
 - 🤝 [기여 가이드](../docs/CONTRIBUTING.md)
 
+<br />
 
 # 🎨 화면 구성
 | Screen #1 | Screen #2 |
@@ -116,7 +117,7 @@ FortuneMon은 누구나 쉽게 감정 기반 루틴 서비스를 개발하거나
 |:--------:|:--------:|:-------:|:-------:|
 | <img src="https://github.com/kimcodell.png?size=100" width="100" height="100" style="border-radius: 50%;" /> | <img src="https://github.com/bhs3066.png?size=100" width="100" height="100" style="border-radius: 50%;" /> | <img src="https://github.com/MINO1020.png?size=100" width="100" height="100" style="border-radius: 50%;" /> | <img src="https://github.com/Seung-Un.png?size=100" width="100" height="100" style="border-radius: 50%;" /> |
 | [김민혁](https://github.com/kimcodell) | [변현석](https://github.com/bhs3066) | [이민호](https://github.com/MINO1020) | [남승운](https://github.com/Seung-Un) |
-| - 루틴 기능 구현<br>- 인증 기능 구현<br>- 파트너 조언 구현<br>- 컴포넌트/모듈 구조 개선<br>- Redux 상태 관리 도입 | - 레이아웃 구현<br>- 운세 기능 구현<br>- 마이페이지 구현<br>- 포켓몬 기능 구현<br>- 도감/파트너 기능<br>- Vercel 배포 | - 루틴 기능 구현<br>- CI/CD 환경 구성<br>- JWT 인증/인가<br>- Spring Security<br>- 백엔드 아키텍처|- 포켓몬 기능 구현<br>- 몬스터볼 기능 구현<br>- 운세 기능 구현<br>- GPT 연동 개발 |
+| - 루틴 기능 구현<br>- 통계 기능 구현<br>- 인증 기능 구현<br>- 파트너 조언 구현<br>- 컴포넌트/모듈 구조 개선<br>- Redux 상태 관리 도입 | - 레이아웃 구현<br>- 운세 기능 구현<br>- 마이페이지 구현<br>- 포켓몬 기능 구현<br>- 도감/파트너 기능<br>- Vercel 배포 | - 루틴 기능 구현<br>- CI/CD 환경 구성<br>- JWT 인증/인가<br>- Spring Security<br>- 백엔드 아키텍처|- 포켓몬 기능 구현<br>- 몬스터볼 기능 구현<br>- 운세 기능 구현<br>- GPT 연동 개발 |
 
 
 
