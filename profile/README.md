@@ -107,8 +107,8 @@ FortuneMon은 누구나 쉽게 감정 기반 루틴 서비스를 개발하거나
 이 프로젝트는 [**Pokémon API**](https://pokeapi.co/)의 데이터를 사용하고 있으며, 해당 API는 **BSD-3-Clause 라이선스**에 따라 배포됩니다.
 자세한 내용은 `POKEMON-API-LICENSE` 파일을 참고하세요.
 
-- 🎞️ [MIT 라이선스](https://github.com/FortuneMon/FrontEnd/blob/main/LICENSE)
-- 🎞️ [Pokemon API(Third Party) 라이선스](https://github.com/FortuneMon/FrontEnd/blob/main/POKEMON-API-LICENSE)
+- 🎞️ [MIT 라이선스](https://github.com/FortuneMon/.github/blob/main/docs/LICENSE)
+- 🎞️ [Pokemon API(Third Party) 라이선스](https://github.com/FortuneMon/.github/blob/main/docs/POKEMON-API-LICENSE)
 
 <br />
 
