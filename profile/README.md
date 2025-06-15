@@ -37,7 +37,7 @@ FortuneMon은 누구나 쉽게 감정 기반 루틴 서비스를 개발하거나
 
 - 🛠️ [설치 및 실행 방법](../docs/INSTALL.md)
 - 💡 [사용법 가이드](../docs/USAGE.md)
-- 🤝 [기여 가이드](../docs/CONTRIBUTING.md) (추후연결)
+- 🤝 [기여 가이드](../docs/CONTRIBUTING.md)
 
 <br />
 
