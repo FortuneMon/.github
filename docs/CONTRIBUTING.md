@@ -231,6 +231,12 @@ useEffect(() => {
 
 > ❗ 직접 `axios`를 import 하지 않고, 반드시 api 모듈에서 함수로 추출해서 사용하세요.
 
+## 🔗 \[4] Hooks, Util 관리
+- 복잡한 hooks 로직이나 재사용 가능한 로직은 hooks 디렉토리에 custom hooks 파일을 추가하여 사용하세요.
+- 반복되는 로직이나, 복잡한 로직은 utils 디렉토리의 AppUtils.js 에 유틸 함수를 추가하여 사용하세요.
+
+<br>
+
 ---
 
 <br>
