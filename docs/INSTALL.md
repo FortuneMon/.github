@@ -19,6 +19,10 @@
 git clone https://github.com/FortuneMon/Back.git
 cd fortunemon
 ```
+```bash
+git clone https://github.com/FortuneMon/FrontEnd.git
+cd fortunemon
+```
 ## ⚙️ 2. 백엔드 실행
 
 ① application.yml 설정
@@ -76,7 +80,6 @@ REACT_APP_SERVER_BASE_URL= https://api.fortunemon.shop
 ```
 ② 실행 명령어
 
-bash
 ```
 cd frontend
 npm install
