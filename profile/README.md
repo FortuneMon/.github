@@ -38,7 +38,7 @@ FortuneMon은 누구나 쉽게 감정 기반 루틴 서비스를 개발하거나
 - 🛠️ [설치 및 실행 방법](../docs/INSTALL.md)
 - 💡 [사용법 가이드](../docs/USAGE.md)
 - 🤝 [기여 가이드](../docs/CONTRIBUTING.md)
-- 🎞️ [라이센스](https://github.com/FortuneMon/FrontEnd/blob/main/LICENSE)
+
 
 # 🎨 화면 구성
 | Screen #1 | Screen #2 |
@@ -57,7 +57,7 @@ FortuneMon은 누구나 쉽게 감정 기반 루틴 서비스를 개발하거나
 
 <br />
 
-## ⚙ 기술 스택
+# ⚙ 기술 스택
 ### Back-end
 <div>
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
@@ -94,10 +94,17 @@ FortuneMon은 누구나 쉽게 감정 기반 루틴 서비스를 개발하거나
 
 <br />
 
-## 🛠️ 프로젝트 아키텍쳐
+# 🛠️ 프로젝트 아키텍쳐
 -  [프론트 아키텍쳐](https://github.com/FortuneMon/FrontEnd/wiki/%EA%B0%9C%EB%B0%9C-%EA%B3%BC%EC%A0%95-%EB%B0%8F-%ED%96%A5%ED%9B%84-%EA%B3%84%ED%9A%8D#%ED%94%84%EB%A1%A0%ED%8A%B8)
 -  [백앤드 아키텍쳐](https://github.com/FortuneMon/FrontEnd/wiki/%EA%B0%9C%EB%B0%9C-%EA%B3%BC%EC%A0%95-%EB%B0%8F-%ED%96%A5%ED%9B%84-%EA%B3%84%ED%9A%8D#%EB%B0%B1%EC%95%A4%EB%93%9C)
 
+<br />
+
+## 라이선스
+- 🎞️ [MIT 라이선스](https://github.com/FortuneMon/FrontEnd/blob/main/LICENSE)
+- 🎞️ [Pokemon API(Third Party) 라이선스](https://github.com/FortuneMon/FrontEnd/blob/main/POKEMON-API-LICENSE)
+
+<br />
 
 ## 💁‍♂️ 프로젝트 팀원
 
