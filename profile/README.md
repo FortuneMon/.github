@@ -96,6 +96,7 @@ FortuneMon은 누구나 쉽게 감정 기반 루틴 서비스를 개발하거나
 <br />
 
 ## 🛠️ 프로젝트 아키텍쳐
+-  [프론트 아키텍쳐](https://github.com/FortuneMon/FrontEnd/wiki/%EA%B0%9C%EB%B0%9C-%EA%B3%BC%EC%A0%95-%EB%B0%8F-%ED%96%A5%ED%9B%84-%EA%B3%84%ED%9A%8D#%ED%94%84%EB%A1%A0%ED%8A%B8)
 
 
 <br />
